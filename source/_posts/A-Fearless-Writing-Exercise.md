@@ -1,9 +1,10 @@
 ---
-title: Fearless Writing
+title: A Fearless Writing Exercise
 date: 2018-04-23 22:09:33
 tags: 
 - music
 - writing
+- fearless
 ---
 
 ## Introduction
@@ -13,6 +14,10 @@ The goal here is to create more blog posts and practice the process of writing. 
 What you'll find below is a collection of words that came out of nowhere after a successful jam session for my new music project - The Fist City Bastards. We're a two piece band that has practiced 3 times now. We're making significant progress and leave every session feeling accomplished. 
 
 Drumming brings with it a sense of euphoria that I know will pass. And depression may take over in its place. So what I'd like to do is allow for my blog to be a collection of writings that may or may not make sense. The way some people post poems on instagram I want to post streams of consiousness onto the internet. Why? To offer a window into the mind of a manic depressive. It's what I am. I've come to terms with that. Now comes the harder part of living with it. So here goes nothing...
+
+## Background Music
+
+This post was written to the album [Bon Iver by Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn?si=p2oQkzDfSNuPN9QznuBTwQ)
 
 ## Fearlessly Posting What I've Written - An Exercise
 
@@ -45,4 +50,3 @@ I lost my home along everything. Home is no longer a place. It is a feeling. Par
 My tongue is too big for my mouth. My brain is too big for my head. I've outgrown this world. And yet still I am small, weak, and malnourished. It's what depression does. It loses sight of any reason to really try. It's a complacency in nothingness to a point where death is simply freedom from all that lack. I can't find a better word. Lack. Something's missing. And without it I'm in quiet agony. Which feels like hyperbole.
 
 All this to say. I'm happy. I'm writing. And I want to keep writing, producing, creating. It's who I am.  
-

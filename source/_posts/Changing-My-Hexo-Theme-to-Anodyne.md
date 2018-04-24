@@ -15,3 +15,7 @@ Not loving the "traditional" blog style that comes with the landscape theme, I v
 - [Hexo Themes](https://hexo.io/themes/index.html)
 - [Anodyne - Hexo Theme on Github](https://github.com/klugjo/hexo-theme-anodyne)
 - [Anodyne - Demo Site](http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/)
+
+## Next Steps
+
+I have to update the personalization stuff. Let me see how far I can get in 10 minutes...
