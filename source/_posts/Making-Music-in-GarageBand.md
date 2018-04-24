@@ -1,5 +1,5 @@
 ---
-title: Making Music in GarageBand
+title: A Beat Called Ticket
 date: 2018-04-21 14:26:08
 tags: music
 ---

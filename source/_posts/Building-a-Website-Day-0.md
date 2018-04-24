@@ -1,7 +1,8 @@
 ---
-title: Building a Website - Day 0
+title: Building a Website from Scratch
 date: 2018-04-21 13:58:23
 tags:
+- development
 ---
 
 ## What we have used so far:
@@ -34,7 +35,7 @@ Netlify as my webhost
 
 Goal: create a blog post about my new mp3
 
---
+-----
 
 ## Content Driven Development
 
