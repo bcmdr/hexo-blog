@@ -1,11 +1,12 @@
 ---
-title: How to Upload a Starter Files Repo to Your Personal Github
+title: How to Upload a Starter Files Repository to Your Personal Github
 date: 2018-05-16 21:14:34
 categories:
-- Development
+- Tutorials
 tags:
 - GitHub
-- WebDev
+- Web Development
+- Development
 ---
 
 ## Short and Sweet

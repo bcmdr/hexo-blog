@@ -2,9 +2,10 @@
 title: Building a Website from Scratch
 date: 2018-04-21 13:58:23
 categories:
-- Development
+- Articles
 tags:
-- WebDev
+- Web Development
+- Development
 ---
 
 ## What we have used so far:
@@ -35,9 +36,9 @@ A static site generator to convert my md blog posts into html.
 Netlify as my webhost
 - deploy to netlify button as my one step install of a server and github repo. although this didn't actually work, had to fresh install hexo as the netlify deploy deploys the official hexo website. 
 
-Goal: create a blog post about my new mp3
-
------
+Minos as my Hexo Theme
+- Looks like Medium and has search built in. 
+- Also uses Bulma as its framework, which I've learned how to customize. 
 
 ## Content Driven Development
 
@@ -51,4 +52,6 @@ It is also a tremendous learning opportunity to try and use the web as a solutio
 
 While I enjoy scaffolding HTML pages from scratch, the reality is that doing so becomes cumbersome and adds friction to the content producing work flow. I've used a static site generator to handle the busy work of converting markdown posts to html pages properly structured and organized for navigation in a web browser.
 
-The initial project was to create a website from scratch, introducing complexity as needed to solve specific requirements. The first two requirements were hosting markdown files and hosting mp3s. The static site generator was instantly recognized as needed to overcome the maintence involved with blogging. While instantly more "complicated" than manual html pages, the simplicity in automation that comes with the generator justifies the learning the curve. Static site generators support static assets by default so my mp3 requirement is also met. 
+The initial project was to create a website from scratch, introducing complexity as needed to solve specific requirements. The first two requirements were hosting markdown files and hosting mp3s. The static site generator was instantly recognized as needed to overcome the maintence involved with blogging. While instantly more "complicated" than manual html pages, the simplicity in automation that comes with the generator justifies the learning the curve. Static site generators support static assets by default so my mp3 requirement is also met.
+
+Hexo ended up being my static site generator of choice, mainly because it is well reviewed and built on node. My javascript knowledge makes for a simpler learning curve compared to learning ruby for using Jekyll, a more widely used SSG.  
