@@ -1,8 +1,10 @@
 ---
 title: Building a Website from Scratch
 date: 2018-04-21 13:58:23
+categories:
+- Development
 tags:
-- development
+- WebDev
 ---
 
 ## What we have used so far:
