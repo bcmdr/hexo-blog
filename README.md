@@ -10,3 +10,5 @@
 
 - View website locally with `hexo server` command
 - Blog posts are stored in `source/_posts` directory
+- Publish posts by committing to github (netlify will then update the live blog)
+- Create posts with `hexo new post "${post-title}"`
