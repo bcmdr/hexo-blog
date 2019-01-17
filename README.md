@@ -1,4 +1,4 @@
-# Brett Commandeur's Website
+# Brett Commandeur's Development Blog
 
 ## Goals
 - Build a website from scratch, introducing technologies to meet specific needs. 
