@@ -12,3 +12,15 @@
 - Blog posts are stored in `source/_posts` directory
 - Publish posts by committing to github (netlify will then update the live blog)
 - Create posts with `hexo new post "${post-title}"`
+
+## Installation
+
+```
+git clone https://github.com/bcmdr/hexo-blog.git
+cd hexo-blog
+npm install hexo --save
+hexo new post "${post-title}
+code .
+```
+
+
