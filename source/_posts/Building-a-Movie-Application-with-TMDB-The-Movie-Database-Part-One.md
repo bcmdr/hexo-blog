@@ -27,19 +27,19 @@ To start, we'll need to familiarize ourselves with TMDB [The Movie Database](htt
 
 We'll need an API key and we'll need to make basic requests. Looks like I [already had an account](https://www.themoviedb.org/u/bcommandeur). So now I can head to settings > API and grab my API key. Now I should be able to use this in Codepen to start experimenting... wait. Security. Feels bad to store my API key in public since a nefarious user could take this and make requests on my behalf, exceeding my usage limits. I googled 'vue api secret' and discovered [this tip from reddit:](https://www.reddit.com/r/vuejs/comments/78np9q/where_to_put_api_key_vuejs_app/)
 
-'''
+```
 https://www.npmjs.com/package/dotenv
 import it to vue
 block it in .gitignore
-'''
+```
 
 Turns out [npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv) is based on [The Twelve Factor App](https://12factor.net/), a methodology for writing web apps in any programming language. Let's remember I'm building a portfolio piece and want to build best practices from the start. While we're on a huge tangent now, I'd like to review this methodology before tackling my new app. But before we do that, let's at least get a response in the console with my new API key.
 
 Where to begin? We know `curl` exists, so let's use that to get a response and see what happens. We already have `homebrew` installed on this machine so...
 
-'''
+```
 brew install curl
-'''
+```
 
 which causes `homebrew` to update (this takes a while) before installing `curl`. We take a look at the [curl documentation](https://ss64.com/osx/curl.html) and give it a whirl:
 
@@ -55,5 +55,4 @@ which returns
 
 Which is a JSON object for the 'Fight Club' entry on TMDB! Well done. Now let's post this and take a break. I'll have to navigate over to my /hexo-blog folder, and run `hexo new post`. This didn't work so I `rm -rf node_modules/ && npm install` courtesy of this [issue on github](https://github.com/hexojs/hexo/issues/2076) to resolve the `ERROR Local hexo not found in ~/...` error. 
 
-
-
+We'll post this to github with `git status`, `git add .`, `git commit -m`, and `git push`. I already had my blog repo clone from github.
