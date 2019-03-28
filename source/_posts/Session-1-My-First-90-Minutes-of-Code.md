@@ -7,7 +7,7 @@ tags:
 date: 2019-03-28 16:41:50
 ---
 
-[Begin 4:30PM on March 28, 2019]
+## Begin 4:30PM on March 28, 2019
 
 Today's post comes from the inspiration of my previous post on **90 Minutes of Code**. The goal is to work on a programming challenge for upwards of 90 minutes and see how it goes. 
 
@@ -46,4 +46,22 @@ git merge add_sessions_category
 ``` 
 
 where `add_sessions_category` is an arbitrary name of the temporary branch from which to merge.
+
+I `cd ..` back up to my main hexo directory, `git add .`, `git commit`, and `git push`, head over to [Netlify](https://netlify.com) and publish a deploy.
+
+Code is live and working! Now for that break ;)
+
+We are back! 90 minutes is feeling like a long time but the idea is to build that muscle of persisting through the struggle. My goal is to do this for upwards of 8-10 hours a day. Much like a workout can be hard, pushing through it is what makes us stronger. So lets keep going!
+
+So let's stay with the blog. What else would we like to fix knowing that context switches are "expensive" and time consuming. We have it up so we may as well make the changes. It's like not moving the camera if you can get all your coverage in the same series of shot setups. Film school training is paying off!
+
+
+## Continue 5:27PM on March 28, 2019
+
+I have two UX issues with my blog.
+
+First, the All Posts button does not make it obvious that it links to a timeline of all posts. I assume thats where we are on the homepage given its the first item of the navbar. But nope, it links to the archive. So lets' rename `All Posts` to `Archive`
+
+
+
 
