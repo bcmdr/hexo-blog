@@ -54,4 +54,4 @@ While I enjoy scaffolding HTML pages from scratch, the reality is that doing so 
 
 The initial project was to create a website from scratch, introducing complexity as needed to solve specific requirements. The first two requirements were hosting markdown files and hosting mp3s. The static site generator was instantly recognized as needed to overcome the maintence involved with blogging. While instantly more "complicated" than manual html pages, the simplicity in automation that comes with the generator justifies the learning the curve. Static site generators support static assets by default so my mp3 requirement is also met.
 
-Hexo ended up being my static site generator of choice, mainly because it is well reviewed and built on node. My javascript knowledge makes for a simpler learning curve compared to learning ruby for using Jekyll, a more widely used SSG.  
+Hexo ended up being my static site generator of choice, mainly because it is well reviewed and built on node. My javascript knowledge makes for a simpler learning curve compared to learning ruby for using Jekyll, a more widely used SSG. 

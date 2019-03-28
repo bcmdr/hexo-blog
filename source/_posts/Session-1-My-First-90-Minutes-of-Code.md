@@ -60,7 +60,9 @@ So let's stay with the blog. What else would we like to fix knowing that context
 
 I have two UX issues with my blog.
 
-First, the All Posts button does not make it obvious that it links to a timeline of all posts. I assume thats where we are on the homepage given its the first item of the navbar. But nope, it links to the archive. So lets' rename `All Posts` to `Archive`
+First, the All Posts button does not make it obvious that it links to a timeline of all posts. I assume thats where we are on the homepage given its the first item of the navbar. But nope, it links to the archive. So lets' rename `All Posts` to `Archive`. We should find that in the minos theme config again (it was).
+
+Next, I'd like to update the github link in the footer to be more descriptive and say 'View Source Code on Github'. This promotes recognition over recall and removes the ambiguity of what the github link will point to. This will likely be in the theme config.
 
 
 
