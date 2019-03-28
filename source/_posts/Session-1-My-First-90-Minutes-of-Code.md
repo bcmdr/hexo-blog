@@ -36,3 +36,14 @@ There's a `menu` object in the Minos theme config to which I can add `Tutorials:
 Now for a point of reflection. I've been working now for 30 minutes and I've accomplished one of my goals. I notice that I'm enjoying blogging along side the programming because it helps me organize my thoughts and I can reference back to this later if I forget what I did. I'm also hoping there is some SEO relating to my error message and theme name. This format is pretty verbose and may be difficult to parse, but it's better than nothing and ultimately aids in my learning (plus it's fun!)
 
 Let's post the change to the github after a quick test, allow Netlify to work its magic of updating my blog, check the live changes and take a 5 minute break.
+
+I ran into some issues with pushing the changes of my submodule (the minos theme) but what worked is 
+
+```
+git branch add_sessions_category
+git checkout master
+git merge add_sessions_category
+``` 
+
+where `add_sessions_category` is an arbitrary name of the temporary branch from which to merge.
+
