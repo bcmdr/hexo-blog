@@ -22,7 +22,7 @@ What is Coding? It's solving a specific problem using some kind of programming l
 
 We'd like to give ourselves a reasonable timeline in which to accomplish some deep learning. Inspired by the *100 Days of Code movement*, this practice is aimed at inspiring others to either begin or return to programming. The difference is being more interested here in the quality of code than the quantity of the "streak" (how many days in a row you stayed true to your commitment). 
 
-In my experience, *100 Days of Code* also emulates feelings of failure if not accomplished. Here we offer a template of how to code once a day, week, month or even year. We care less about how many lines of code we write and more about the quality of those lines. Specifically, we care about the pride you feel in producing high quality bits of software that strengthen your skills and hopefully enlighten your readers.
+In my experience, *100 Days of Code* emulates feelings of failure if not accomplished. Here we offer a template of how to code once a day, week, month or even year. We care less about how many lines of code we write and more about the quality of those lines. Specifically, we care about the pride you feel in producing high quality bits of software that strengthen your skills and hopefully enlighten your readers.
 
 Additionally, blogging about the experience can prove to be valuable over time. I find the learning experience can sometimes be more valuable than whatever answer it produced, as many programming choices are difficult and nuanced in even the simplest of cases.
 
