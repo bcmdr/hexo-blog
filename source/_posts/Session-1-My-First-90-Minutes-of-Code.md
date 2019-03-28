@@ -62,7 +62,17 @@ I have two UX issues with my blog.
 
 First, the All Posts button does not make it obvious that it links to a timeline of all posts. I assume thats where we are on the homepage given its the first item of the navbar. But nope, it links to the archive. So lets' rename `All Posts` to `Archive`. We should find that in the minos theme config again (it was).
 
-Next, I'd like to update the github link in the footer to be more descriptive and say 'View Source Code on Github'. This promotes recognition over recall and removes the ambiguity of what the github link will point to. This will likely be in the theme config.
+Next, I'd like to update the github link in the footer to be more descriptive and say 'View Source Code on Github'. This promotes recognition over recall and removes the ambiguity of what the github link will point to. This will likely be in the theme config. It wasn't! Instead I had to find footer.ejs in the minos template and add it there. While I was at it I added the Twitter icon link to the nav bar. I found myself drifting into minor design nitpicks and had to steer myself back to focusing and not making a bunch of little changes all at once (which might break something and I won't know which change is responsible).
+
+## Closing Reflection at 5:50PM
+
+My 90 minutes is approaching an end, with 10 minutes left. My biggest takeaway is that 90 minutes feels right; it's just enough time to solve multiple problems, requiring a break, coming back to work and beginning to drift into irrelevant changes. In my experience, all those phases are common if not necessary to the development process. #90MinsOfCode is about really committing a reasonable amount of time to go through a full development experience (frustration and tedium notwithstading). It feels like a mental workout and I'm satisfied with how much I got done. 
+
+This reflection process was reinforced during my CMPUT 302 - Introduction to Computer Human Interaction Course – in which reflections such as these are required and graded. Once you push past the feeling of "is this really necessary", you appreciate the methodology for what it can offer towards the quality of learning. 
+
+Writing out your thoughts requires you to repeat what happened. Repetition is the key to learning. And writing out your thoughts in a linear fashion can help you stay organized, focused, and on track. 
+
+See you next time!
 
 
 
