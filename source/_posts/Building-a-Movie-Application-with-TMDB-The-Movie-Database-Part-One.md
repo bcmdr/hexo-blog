@@ -1,9 +1,12 @@
 ---
 title: Building a Movie Application with TMDB (The Movie Database) (Part One)
 categories:
-  - Articles
+  - Sessions
 tags:
   - Development
+  - Web Development
+  - The Movie Database
+  - Command Line
 date: 2019-02-25 15:18:38
 ---
 
