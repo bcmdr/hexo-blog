@@ -64,4 +64,5 @@ And use the app! Future changes can be published to npm, allowing users to updat
 
 ## Finished Product
 
-The source code for the above project [can be found in its GitHub repository](https://github.com/bcmdr/catch-cli). The published package [can be found on npm]
+- The source code for the above project [can be found in its GitHub repository](https://github.com/bcmdr/catch-cli). 
+- The published package [can be found on npm](https://www.npmjs.com/package/@bcmdr/catch).
