@@ -1,7 +1,7 @@
 ---
 title: Building a Note-Taking Application for the Command Line
 categories:
-  - Session
+  - Sessions
 tags:
   - Development
   - Web Development
