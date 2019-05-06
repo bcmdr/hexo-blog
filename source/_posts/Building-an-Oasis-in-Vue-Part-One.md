@@ -4,6 +4,8 @@ categories:
   - Sessions
 tags:
   - Development
+  - Vue
+  - Oasis
 date: 2019-05-06 02:34:00
 ---
 
