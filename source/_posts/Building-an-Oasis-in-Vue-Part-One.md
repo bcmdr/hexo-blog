@@ -1,7 +1,7 @@
 ---
 title: Building an Oasis in Vue (Part One)
 categories:
-  - Session
+  - Sessions
 tags:
   - Development
 date: 2019-05-06 02:34:00
