@@ -33,8 +33,7 @@ I much prefer the readability of left-aligned word wrap. It also scales more con
 
 ## Second Attempt
 
-Implementing the above code worked well at first glace, but later testing revealed the above code create weird spacing issues where now my menu items were no longer vertically aligned. It turns out the Minos Theme is using flex-box, so
-declaring `display: inline-block` broke the spacing that flex-box provides. So instead:
+Implementing the above code worked well at first glace, but later testing revealed the above code create weird spacing issues where now my menu items were no longer vertically aligned. It turns out the Minos Theme is using flex-box, so declaring `display: inline-block` broke the spacing that flex-box provides. So instead:
 
 ```
 .navbar-item {
