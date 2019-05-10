@@ -7,18 +7,18 @@ tags:
 date: 2019-05-09 09:43:18
 ---
 
-There's this piece of code on instagram, and it looks like this:
+There's this piece of code I posted on instagram, and it looks like this:
 
 ```js
-
 // Universe
+
 const properties = {
-	energy: (mass, distance, time) => {
-		return mass * (distance / time) * (distance / time)
-	},
-	mass: (energy, distance, time) => {
-		return energy / (distance / time) * (distance / time)
-	}
+  energy: (mass, distance, time) => {
+    return mass * (distance / time) * (distance / time)
+  },
+  mass: (energy, distance, time) => {
+    return energy / (distance / time) * (distance / time)
+  }
 }
 ```
 
