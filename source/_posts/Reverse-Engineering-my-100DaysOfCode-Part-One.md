@@ -8,10 +8,6 @@ tags:
   - Emotional Stuff
 date: 2019-05-10 10:54:01
 ---
-
-Reverse Engineering My #100DaysOfCode (Part One)
-===============================================
-
 Here's my thought process: 100 Days of Code is supposed to be *declaritive* in the sense that it requires "declaring": 
 ```
 #100DaysofCode
