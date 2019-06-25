@@ -1,5 +1,5 @@
 ---
-title: Building an Oasis in Vue (Part One)
+title: Building an Oasis in Vue
 categories:
   - Sessions
 tags:

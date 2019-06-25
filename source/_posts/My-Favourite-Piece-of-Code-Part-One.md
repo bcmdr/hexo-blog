@@ -1,5 +1,5 @@
 ---
-title: My Favourite Piece of Code (Part One)
+title: My Favourite Piece of Code
 categories:
   - Articles
 tags:

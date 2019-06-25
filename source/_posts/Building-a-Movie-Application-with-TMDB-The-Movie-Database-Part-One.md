@@ -1,5 +1,5 @@
 ---
-title: Building a Movie Application with TMDB (The Movie Database) (Part One)
+title: Building a Movie Application with TMDB (The Movie Database)
 categories:
   - Sessions
 tags:

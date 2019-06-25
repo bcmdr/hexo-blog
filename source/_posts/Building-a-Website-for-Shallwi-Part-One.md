@@ -1,5 +1,5 @@
 ---
-title: Building a Website for Shallwi (Part One)
+title: Building a Website for Shallwi
 categories:
   - Sessions
 tags:

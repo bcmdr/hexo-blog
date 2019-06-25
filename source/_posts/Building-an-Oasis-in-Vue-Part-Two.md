@@ -1,5 +1,5 @@
 ---
-title: Building an Oasis in Vue (Part Two)
+title: Continuing to Build an Oasis in Vue
 categories:
   - Sessions
 tags:
@@ -39,9 +39,9 @@ It will take some experimentation, but ideally I'll come up with a (or find an e
 
 Problem: we wanted this to be an opinionated "oasis" in which to work on designs. Solution: the term oasis was chosen to induce a feeling of freedom, this is a feature, not a bug. 
 
-Alright, so bit of a misnomer in the title so let's try again:
+Alright, so bit of a misnomer in the title so let's try again...
 
-## Building an Oasis with Parcel (Part One)
+## Building an Oasis with Parcel
 
 So what do we want by the end of this session? I should have a template file structure for a bundle. I should have two of these bundles in a project each accessible from the index of the portfolio. 
 

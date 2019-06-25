@@ -1,5 +1,5 @@
 ---
-title: 'Reverse Engineering my #100DaysOfCode (Part One)'
+title: 'Reverse Engineering my #100DaysOfCode'
 categories:
   - Articles
 tags:
