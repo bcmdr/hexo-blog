@@ -7,7 +7,7 @@ tags:
 date: 2019-05-09 09:43:18
 ---
 
-There's this piece of code I posted on instagram, and it looks like this:
+There's a piece of code I posted on instagram, and it looks like this:
 
 ```js
 // Universe
@@ -30,4 +30,6 @@ It is my *mystery of life*... Some kids dream of counting beyond one million. I 
 
 Now that I know **math** and **code** (and can type *very* fast), I can just write `e=mc^2` , and all that knowledge comes pouring into my brain. 
 
-(To be continued).
+The above piece of code was designed to illustrate the beauty of objects within functional programming. I love Javascript for its choice to have functions be 'first class citizens' (they are objects, themselves). 
+
+Its concise, and packs a punch. And can even unlock the secrets of space and time. Actually, it can't; but, maybe Einstein would have thought it was cool.

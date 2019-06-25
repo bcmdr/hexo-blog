@@ -26,5 +26,3 @@ So that's ten years of battling with HTML, CSS and Javascript. 10 years of inten
 All because I had two pretty solid ideas: the first was a podcast about boardgames, **TableGamerWeekly** (which my best friend later called **Hex19**); and the second was a Movie tracking application for your friends, called **Shoodsi**. These ideas were pretty cutting edge in 2011, so I pursued development and entrepreneurship as hard as I could. The resulting stress taught me way more than I ever expected to be prepared for...
 
 ...Man, its been a crazy decade. My friends, my family, they've supported me the whole way through. And though bruised, I've learned to be a better person to others, and a kinder person to myself. I didn't expect this post to get so emotional, but thanks for bearing with me through this rollercoaster ride of emotions. Our theme park is sure to best the others, no? Anyways, as we say in **binary**, let's turn that `10`, into a `2`.
-
-**(To Be Continued.)**
