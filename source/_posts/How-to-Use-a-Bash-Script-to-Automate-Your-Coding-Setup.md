@@ -42,5 +42,5 @@ chmod +x ./dev
 
 which will "change mode" such that "executable" is added to the file "dev" in our current diretory ("./").
 
-Then we can run `./dev` as a single command in whatever directory that dev script is saved in. For example, my dev will navigate to my blog's project folder, pull any new changes, and open the directory in VSCode. 
+Then we can run `source dev` as a single command in whatever directory that dev script is saved in. For example, my dev will navigate to my blog's project folder, pull any new changes, and open the directory in VSCode. 
 
