@@ -6,7 +6,7 @@
     "dev": "hexo serve"
   },
   "hexo": {
-    "version": "3.9.0"
+    "version": "3.6.2"
   },
   "dependencies": {
     "bulma": "^0.7.5",
